@@ -5,6 +5,8 @@ description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
+        <meta name="author" content="Helmond2">
+              <link rel="icon" href="./images/logo.png">
 
 # Theme settings
 site_author: Carlos Pereira Atencio
