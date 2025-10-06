@@ -35,7 +35,7 @@ Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgen
 Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 # Overtredingen - Verstoring openbare orde (RP)
-# Artikel 1 - FailRP / Powergaming
+## Artikel 1 - FailRP / Powergaming
 Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 1e categorie.
 De overtreding vermeld in het eerste lid staat bekend als “FailRP”
 Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 1e categorie.
