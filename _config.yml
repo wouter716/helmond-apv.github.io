@@ -6,7 +6,6 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 
-
 # Theme settings
 site_author: Carlos Pereira Atencio
 repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
