@@ -1,25 +1,25 @@
-Algemene Bepalingen
-A1 - Reikwijdte
+# Algemene Bepalingen
+# A1 - Reikwijdte
 Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Helmond.
 De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om. -
-A2 - Geldigheid
+# A2 - Geldigheid
 Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de persoon meest gunstigste bepalingen toegepast.
 Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 Bij lid 2 genoemde regel geldt uitzondering voor Hoofd Management, Hoge Raad, Beheerders
 Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
-A3 - Strafbepaling
-De Straffen zijn onderverdeeld in 10 categorieën:
-Categorie 1 – Een waarschuwing + 10  taken.
-Categorie 2 – Een waarschuwing + 25 taken.
-Categorie 3 - Een Ban van 8 Uur
-Categorie 4 - Een Ban van Maximaal 1 Dag
-Categorie 5 - Een Ban van Maximaal 1 Week
-Categorie 6 – Een Ban van Maximaal 2 Week
-Categorie 7 – Een Ban van Maximaal 1 Maand
-Categorie 8 – Een Ban van Maximaal 2 Maand
-Categorie 9 – Een permanente ban. (Deze kan weggehaald worden via een unban ticket )
-Categorie 10 – Een permanente ban.
-Categorie 11 – Een permanente ban + accountwipe.
+# A3 - Strafbepaling
+**De Straffen zijn onderverdeeld in 10 categorieën:**
+**Categorie 1 – Een waarschuwing + 10  taken.**
+**Categorie 2 – Een waarschuwing + 25 taken.**
+**Categorie 3 - Een Ban van 8 Uur**
+**Categorie 4 - Een Ban van Maximaal 1 Dag**
+**Categorie 5 - Een Ban van Maximaal 1 Week**
+**Categorie 6 – Een Ban van Maximaal 2 Week**
+**Categorie 7 – Een Ban van Maximaal 1 Maand**
+**Categorie 8 – Een Ban van Maximaal 2 Maand**
+**Categorie 9 – Een permanente ban. (Deze kan weggehaald worden via een unban ticket )**
+**Categorie 10 – Een permanente ban.**
+**Categorie 11 – Een permanente ban + accountwipe.**
 De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het managagement team en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
@@ -27,15 +27,15 @@ Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te 
 Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
 Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze kenmerken.
 Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
-A4 - Aanvullende Wetten en regels
+# A4 - Aanvullende Wetten en regels
 Aanvullend op de APV is er het Wetboek Helmond (WAFR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in HelmondRP.
 In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
 Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WAFR. Dan is deze leidend.
 Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
-Overtredingen - Verstoring openbare orde (RP)
-Artikel 1 - FailRP / Powergaming
+# Overtredingen - Verstoring openbare orde (RP)
+# Artikel 1 - FailRP / Powergaming
 Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 1e categorie.
 De overtreding vermeld in het eerste lid staat bekend als “FailRP”
 Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 1e categorie.
