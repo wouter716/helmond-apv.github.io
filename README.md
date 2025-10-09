@@ -87,7 +87,7 @@ Enkele voorbeelden hiervan zijn onder andere een crosshair, Flawless Widescreen,
 Deze regel geldt ook voor de Discord cliënt zelf, dus gebruik van clients als Better Discord is niet toegestaan.
 De hoge raad kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen.
 Combatpacks zijn niet toegestaan, bijvoorbeeld minder bosjes of andere zaken die in het voordeel zijn van de speler.
-**StrafCategorie 2**
+**StrafCategorie 10**
 
 
 
@@ -223,7 +223,7 @@ Hij/zij die zijn wapen gebruikt, dient 10 minuten te wachten voor hij/zij deze w
 Straf
 Wapen inleveren
 Combat-stashen
-Categorie 5
+Categorie 2
 Ban voor spullen inleveren**
 
 ## Artikel 10 - GTAV Driving style
@@ -379,7 +379,7 @@ Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn
 Categorie 2
 Massa VDM
 Categorie 8
-Een ban van 1 week + 175 taken.**
+Een ban van 1 week.**
 
 
 
