@@ -8,8 +8,10 @@ Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die 
 Bij lid 2 genoemde regel geldt uitzondering voor Hoofd Management, Hoge Raad, Beheerders
 Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 # A3 - Strafbepaling
-**De Straffen zijn onderverdeeld in 10 categorieën:**
+**De Straffen zijn onderverdeeld in 10 categorieën:** 
+
 **Categorie 1 – Een waarschuwing + 10  taken.**
+
 **Categorie 2 – Een waarschuwing + 25 taken.**
 **Categorie 3 - Een Ban van 8 Uur**
 **Categorie 4 - Een Ban van Maximaal 1 Dag**
