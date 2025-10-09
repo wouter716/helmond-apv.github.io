@@ -13,14 +13,23 @@ Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door b
 **Categorie 1 – Een waarschuwing + 10  taken.**
 
 **Categorie 2 – Een waarschuwing + 25 taken.**
+
 **Categorie 3 - Een Ban van 8 Uur**
+
 **Categorie 4 - Een Ban van Maximaal 1 Dag**
+
 **Categorie 5 - Een Ban van Maximaal 1 Week**
+
 **Categorie 6 – Een Ban van Maximaal 2 Week**
+
 **Categorie 7 – Een Ban van Maximaal 1 Maand**
+
 **Categorie 8 – Een Ban van Maximaal 2 Maand**
+
 **Categorie 9 – Een permanente ban. (Deze kan weggehaald worden via een unban ticket )**
+
 **Categorie 10 – Een permanente ban.**
+
 **Categorie 11 – Een permanente ban + accountwipe.**
 De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het managagement team en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
