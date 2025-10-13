@@ -1,6 +1,6 @@
 # Algemene Bepalingen
 # A1 - Reikwijdte
-Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Westdijk.
+Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Wavy.
 De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om. -
 # A2 - Geldigheid
 Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de persoon meest gunstigste bepalingen toegepast.
@@ -39,7 +39,7 @@ Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
 Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze kenmerken.
 Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
 # A4 - Aanvullende Wetten en regels
-Aanvullend op de APV is er het Wetboek Westdijk (WAFR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in WestdijkRP.
+Aanvullend op de APV is er het Wetboek Wavy (WAFR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Wavyrp.
 In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
 Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WAFR. Dan is deze leidend.
@@ -147,7 +147,7 @@ Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateer
 Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-Wanneer je met meerdere mensen die op Westdijk spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+Wanneer je met meerdere mensen die op Wavy spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
 Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
 Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
@@ -565,7 +565,7 @@ Categorie 5**
 
 
 ## Artikel 38 – IRL Trading
-Hij/zij die geld of andere zaken vraagt voor dingen die hij doet in WestdijkRp.
+Hij/zij die geld of andere zaken vraagt voor dingen die hij doet in WavyRp.
 **Straf
 Categorie 10**
 
@@ -584,7 +584,7 @@ Categorie 1**
 
 ## Artikel 40 - Discord
 Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-Wanneer je met meerdere mensen die op Westdijk spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+Wanneer je met meerdere mensen die op Wavy spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
